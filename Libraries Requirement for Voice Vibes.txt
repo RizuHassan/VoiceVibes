@@ -1,0 +1,5 @@
+pip install tkinter
+pip install gtts
+pip install speech_recognition
+pip install os
+pip install vaderSentiment
